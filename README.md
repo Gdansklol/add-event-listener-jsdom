@@ -110,3 +110,9 @@ btn2.addEventListener('click', handleAllClick);
 btn3.addEventListener('click', handleAllClick);
 ```
 
+# createElemnet & appendChild
+> exemple
+```js
+const p = document.createElement("p");
+document.body.appendChild(p);
+```
