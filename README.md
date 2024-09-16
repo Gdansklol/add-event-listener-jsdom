@@ -116,3 +116,5 @@ btn3.addEventListener('click', handleAllClick);
 const p = document.createElement("p");
 document.body.appendChild(p);
 ```
+
+# value and preventDefault
